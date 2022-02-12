@@ -32,7 +32,7 @@ programa
 		cadeia nome
 
 		escreva("Digite seu nome: ")
-		leia(nome)
+		leia(ANGELICA MADEIRA)
 	}
 }
 
